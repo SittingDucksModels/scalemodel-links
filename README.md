@@ -7,6 +7,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 --------------------
 - [Communities](#Communities)
 - [Reddit](#Reddit)
+- [Clubs](#Clubs
 - [Manufacturers](#Manufacturers)
 - [Blogs](#Blogs)
 - [Magazines](#Magazines)
@@ -36,6 +37,11 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [r/metalearth](https://www.reddit.com/r/metalearth)
 - [r/modelexchange](https://www.reddit.com/r/modelexchange)
 - [r/brushforhire](https://www.reddit.com/r/brushforhire)
+
+### Clubs
+- [IPMS Nederland 🇳🇱](https://www.ipms.nl/)
+- [IPMS Belgium 🇧🇪](http://www.ipms.be/)
+- [IPMS USA](http://www.ipmsusa.org/)
 
 ## Manufacturers
 - [Airfix](https://www.airfix.com/)
