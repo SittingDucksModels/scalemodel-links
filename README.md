@@ -1,4 +1,5 @@
 # scalemodel-links
+
 This is a list of links related to scale model building, including historical sources.
 
 Want to add links, see [Contributing](https://github.com/SittingDucksModels/scalemodel-links/blob/master/CONTRIBUTE.md).
@@ -14,10 +15,10 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 
 ## Communities
 - [Scalemates](http://www.scalemates.com/) - The scale modelers Facebook, Metacritic and price comparison site rolled into one.
-- [Modelbrouwers](https://modelbrouwers.nl/phpBB3/) - Dutch - Forum for modelbuilders.
+- [Modelbrouwers 🇳🇱](https://modelbrouwers.nl/phpBB3/) - Forum for modelbuilders.
 - [Armorama](https://www.armorama.com/) - Website with reviews, news, tutorials and forum.
 
-## Reddit
+### Reddit
 - [r/modelmakers](https://www.reddit.com/r/modelmakers)
 - [r/72scale](https://www.reddit.com/r/72scale)
 - [r/modelcars](https://www.reddit.com/r/modelcars)
@@ -38,25 +39,28 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 
 ## Manufacturers
 - [Airfix](https://www.airfix.com/)
-- [Revell of Germany](https://www.revell.de/)
+- [Revell of Germany 🇩🇪](https://www.revell.de/)
 - [Revell USA](http://www.revell.com/)
+- [Tamiya, Inc. 🇯🇵](http://www.tamiya.com/japan/index.htm)
+- [Tamiya, Inc.](http://www.tamiya.com/english/e-home.htm)
+- [Tamiya USA](https://www.tamiyausa.com/)
 
 ## Blogs
-- [SittingDucks Models](https://sittingducksmodels.wordpress.com) - English - My own blog; features reviews, builds and some historical info.
-- [Doog's Models](https://doogsmodels.com/) - English - Blog of a well-known modelbuilder with interesting builds, insights and tutorials.
-- [Atom Scales](http://atomscales.com/dioramas) - English - Facebook-heavy site with amazing dioramas.
+- [SittingDucks Models](https://sittingducksmodels.wordpress.com) - SittingDuck's blog. Features reviews, builds and some historical info.
+- [Doog's Models](https://doogsmodels.com/) - Blog of a well-known modelbuilder with interesting builds, insights and tutorials.
+- [Atom Scales](http://atomscales.com/dioramas) - Directory of amazing dioramas from multiple sources.
 - [The Modeling News](http://www.themodellingnews.com/) - Builds, news and reviews.
 
 ## Magazines
 - [Military Modelling](http://www.militarymodelling.com) - Magazine centered on military models.
 - [Airfix Model World](http://www.airfixmodelworld.com/) - Official Airfix Magazine
 - [Tamiya Model Magazine](http://tamiyamodelmagazine.com/) - Official Tamiya Magazine
-- [Modelbouw Magazine](http://www.modelbouwmagazine.nl/) - Dutch - Dutch/Belgian magazine
+- [Modelbouw Magazine 🇳🇱](http://www.modelbouwmagazine.nl/) - Dutch/Belgian magazine
 - [FineScale Magazine](http://www.finescale.com/) - Model magazine with lots of beginner friendly tutorials
 - [The Weathering Magazine](http://www.migjimenez.com/en/35-the-weathering-magazine-publications) - Magazine by MiG Jimenez
 
 ## Misc
 - [Panzerworld](http://www.panzerworld.com/) - Articles on everything related to Panzers
-- [LuftwaffeWorld.de](https://www.deutscheluftwaffe.de/) - German - Information on cockpits and documents relating to various Luftwaffe aircraft.
-- [Luftwaffeworld.com](https://www.deutscheluftwaffe.com) - German/English - Archive of the old Luftwaffeworld website.
+- [LuftwaffeWorld.de 🇩🇪](https://www.deutscheluftwaffe.de/) - Information on cockpits and documents relating to various Luftwaffe aircraft.
+- [Luftwaffeworld.com 🇩🇪/🇬🇧](https://www.deutscheluftwaffe.com) - Archive of the old Luftwaffeworld website.
 
