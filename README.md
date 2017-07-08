@@ -50,8 +50,8 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Doog's Models](https://doogsmodels.com/) - Blog of a well-known modelbuilder with interesting builds, insights and tutorials.
 - [Atom Scales](http://atomscales.com/dioramas) - Directory of amazing dioramas from multiple sources.
 - [The Modeling News](http://www.themodellingnews.com/) - Builds, news and reviews.
-- [moxdao.com 🇨🇳](http://www.moxdao.com/)
-- [moxing.net 🇨🇳](http://www.moxing.net/)
+- [moxdao.com 🇨🇳](http://www.moxdao.com/) - News blog
+- [moxing.net 🇨🇳](http://www.moxing.net/) - News, often the first to feature builds of new kits
 
 ## Magazines
 - [Military Modelling](http://www.militarymodelling.com) - Magazine centered on military models.
