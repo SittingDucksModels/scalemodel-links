@@ -7,7 +7,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 --------------------
 - [Communities](#Communities)
 - [Reddit](#Reddit)
-- [Clubs](#Clubs
+- [Clubs](#Clubs)
 - [Manufacturers](#Manufacturers)
 - [Blogs](#Blogs)
 - [Magazines](#Magazines)
