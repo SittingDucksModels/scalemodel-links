@@ -8,6 +8,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Reddit](#Reddit)
 - [Manufacturers](#Manufacturers)
 - [Blogs](#Blogs)
+- [Magazines](#Magazines)
 - [Misc](#Misc)
 
 
