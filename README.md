@@ -11,7 +11,9 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 
 
 ## Communities
-- [Scalemates](http://www.scalemates.com/) - English - The scale modelers Facebook, Metacritic and price comparison site rolled into one.
+- [Scalemates](http://www.scalemates.com/) - The scale modelers Facebook, Metacritic and price comparison site rolled into one.
+- [Modelbrouwers](https://modelbrouwers.nl/phpBB3/) - Dutch - Forum for modelbuilders.
+- [Armorama](https://www.armorama.com/) - Website with reviews, news, tutorials and forum.
 
 ## Reddit
 - [r/modelmakers](https://www.reddit.com/r/modelmakers)
