@@ -44,6 +44,13 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Tamiya, Inc. 🇯🇵](http://www.tamiya.com/japan/index.htm)
 - [Tamiya, Inc.](http://www.tamiya.com/english/e-home.htm)
 - [Tamiya USA](https://www.tamiyausa.com/)
+- [Heller](https://www.heller.fr/en/)
+- [Dragon Models](http://www.dragon-models.com/)
+- [HobbyBoss](http://www.hobbyboss.com/index.php?l=en)
+- [Italeri](http://www.italeri.com/)
+- [Valom 🇨🇿](http://www.valom.net/)
+- [Friulmodel](http://www.friulmodel.hu/en/) 
+
 
 ## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - SittingDuck's blog. Features reviews, builds and some historical info.
