@@ -8,6 +8,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Reddit](#Reddit)
 - [Manufacturers](#Manufacturers)
 - [Blogs](#Blogs)
+- [Misc](#Misc)
 
 
 ## Communities
@@ -41,5 +42,19 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 
 ## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - English - My own blog; features reviews, builds and some historical info.
-- [Doog's Models](https://doogsmodels.com/) - English - Blog of a well-known modelbuilder with interesting builds, insights and tutorials
-- [Atom Scales](http://atomscales.com/dioramas) - English - Facebook-heavy site with amazing dioramas
+- [Doog's Models](https://doogsmodels.com/) - English - Blog of a well-known modelbuilder with interesting builds, insights and tutorials.
+- [Atom Scales](http://atomscales.com/dioramas) - English - Facebook-heavy site with amazing dioramas.
+- [The Modeling News](http://www.themodellingnews.com/) - Builds, news and reviews.
+
+## Magazines
+- [Military Modelling](http://www.militarymodelling.com) - Magazine centered on military models.
+- [Airfix Model World](http://www.airfixmodelworld.com/) - Official Airfix Magazine
+- [Tamiya Model Magazine](http://tamiyamodelmagazine.com/) - Official Tamiya Magazine
+- [Modelbouw Magazine](http://www.modelbouwmagazine.nl/) - Dutch - Dutch/Belgian magazine
+- [FineScale Magazine](http://www.finescale.com/) - Model magazine with lots of beginner friendly tutorials
+
+## Misc
+- [Panzerworld](http://www.panzerworld.com/) - Articles on everything related to Panzers
+- [LuftwaffeWorld.de](https://www.deutscheluftwaffe.de/) - German - Information on cockpits and documents relating to various Luftwaffe aircraft.
+- [Luftwaffeworld.com](https://www.deutscheluftwaffe.com) - German/English - Archive of the old Luftwaffeworld website.
+
