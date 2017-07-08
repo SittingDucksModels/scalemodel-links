@@ -8,10 +8,10 @@ This is a list of links related to scale model building, including historical so
 - [Blogs](#Blogs)
 
 
-_Communities_
+## Communities
 - [Scalemates](http://www.scalemates.com/) - English - The scale modelers Facebook, Metacritic and price comparison site rolled into one.
 
-_Reddit_
+## Reddit
 - [r/modelmakers](https://www.reddit.com/r/modelmakers)
 - [r/72scale](https://www.reddit.com/r/72scale)
 - [r/modelcars](https://www.reddit.com/r/modelcars)
@@ -30,11 +30,11 @@ _Reddit_
 - [r/modelexchange](https://www.reddit.com/r/modelexchange)
 - [r/brushforhire](https://www.reddit.com/r/brushforhire)
 
-_Manufacturers_
+## Manufacturers
 - [Airfix](https://www.airfix.com/)
 - [Revell of Germany](https://www.revell.de/)
 - [Revell USA](http://www.revell.com/)
 
-_Blogs_
+## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - English - My own blog; features reviews, builds and some historical info.
 - [Doog's Models](https://doogsmodels.com/)
