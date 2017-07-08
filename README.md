@@ -1,7 +1,7 @@
 # scalemodel-links
 This is a list of links related to scale model building, including historical sources.
 
-Want to add links, see [Contributing](/CONTRIBUTING.md).
+Want to add links, see [Contributing](.github/CONTRIBUTING.md).
 
 --------------------
 - [Communities](#Communities)
