@@ -37,4 +37,5 @@ This is a list of links related to scale model building, including historical so
 
 ## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - English - My own blog; features reviews, builds and some historical info.
-- [Doog's Models](https://doogsmodels.com/)
+- [Doog's Models](https://doogsmodels.com/) - English - Blog of a well-known modelbuilder with interesting builds, insights and tutorials
+- [Atom Scales](http://atomscales.com/dioramas) - English - Facebook-heavy site with amazing dioramas
