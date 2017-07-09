@@ -65,12 +65,14 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Amusing Hobby](http://www.amusinghobby.com/)
 - [Tiger Model](http://www.tiger-model.com/listDirect.asp?classId=6&page=0&hl=en)
 - [Meng](http://www.meng-model.com/)
-- [Modelcollect(http://www.modelcollect.com/)
+- [Modelcollect](http://www.modelcollect.com/)
 - [Trumpeter](http://www.trumpeter-china.com/index.php?l=en)
 - [Hasegawa](http://www.hasegawa-model.co.jp/gsite/)
 - [Aoshima](http://www.aoshima-bk.co.jp/en/)
 - [Fujimi](https://www.fujimimokei.com/)
 - [Flyhawk](http://www.flyhawkmodel.com/html/Flyhawkmodel/)
+- [Mirage Hobby 🇵🇱/🇬🇧/🇩🇪/🇨🇿](http://www.mhshop.pl/)
+- [MiniArt](http://www.miniart-models.com/)
 
 ### Paint
 - [Mr Hobby](http://www.mr-hobby.com/en/)
@@ -83,7 +85,6 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 
 ### Diorama
 - [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
-
 
 ## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - SittingDuck's blog. Features reviews, builds and some historical info.
@@ -107,4 +108,3 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Luftwaffeworld.com 🇩🇪/🇬🇧](https://www.deutscheluftwaffe.com) - Archive of the old Luftwaffeworld website.
 - [Bundesarchiv picture database](https://www.bild.bundesarchiv.de/)
 - [Finnish Wartime Photograph Archive](http://sa-kuva.fi/webneologineng.html)
-
