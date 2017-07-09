@@ -108,3 +108,4 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Luftwaffeworld.com 🇩🇪/🇬🇧](https://www.deutscheluftwaffe.com) - Archive of the old Luftwaffeworld website.
 - [Bundesarchiv picture database](https://www.bild.bundesarchiv.de/)
 - [Finnish Wartime Photograph Archive](http://sa-kuva.fi/webneologineng.html)
+- [Panzer Tracts](http://www.panzertracts.com/)
