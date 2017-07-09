@@ -76,6 +76,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Hand & Head 🇰🇷](https://www.handhead.co.kr/)
 - [Pegasus Hobbies](http://www.pegasushobbies.net/catalog/)
 - [AFV Club 🇹🇼](http://www.hobbyfan.com.tw/index-1.asp)
+- [Mister Craft](http://www.mistercraft.eu/)
 
 ### Paint
 - [Mr Hobby](http://www.mr-hobby.com/en/)
