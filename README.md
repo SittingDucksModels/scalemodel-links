@@ -78,6 +78,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [AFV Club 🇹🇼](http://www.hobbyfan.com.tw/index-1.asp)
 - [Mister Craft](http://www.mistercraft.eu/)
 - [Thunder Model](http://www.thundermodel.com/)
+- [Eduard](https://www.eduard.com/)
 
 ### Paint
 - [Mr Hobby](http://www.mr-hobby.com/en/)
