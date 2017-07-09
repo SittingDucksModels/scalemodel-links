@@ -9,9 +9,12 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Reddit](#Reddit)
 - [Clubs](#Clubs)
 - [Manufacturers](#Manufacturers)
+- [Paint](#Paint)
+- [Diorama](#Diorama)
 - [Blogs](#Blogs)
 - [Magazines](#Magazines)
-- [Misc](#Misc)
+- [References](#References)
+
 
 
 ## Communities
@@ -44,6 +47,8 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [IPMS USA](http://www.ipmsusa.org/)
 
 ## Manufacturers
+
+### Kits
 - [Airfix](https://www.airfix.com/)
 - [Revell of Germany 🇩🇪/🇬🇧](https://www.revell.de/)
 - [Revell USA](http://www.revell.com/)
@@ -55,7 +60,29 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [HobbyBoss](http://www.hobbyboss.com/index.php?l=en)
 - [Italeri](http://www.italeri.com/)
 - [Valom 🇨🇿](http://www.valom.net/)
-- [Friulmodel](http://www.friulmodel.hu/en/) 
+- [Friulmodel](http://www.friulmodel.hu/en/)
+- [Takom](http://www.takom-world.com/)
+- [Amusing Hobby](http://www.amusinghobby.com/)
+- [Tiger Model](http://www.tiger-model.com/listDirect.asp?classId=6&page=0&hl=en)
+- [Meng](http://www.meng-model.com/)
+- [Modelcollect(http://www.modelcollect.com/)
+- [Trumpeter](http://www.trumpeter-china.com/index.php?l=en)
+- [Hasegawa](http://www.hasegawa-model.co.jp/gsite/)
+- [Aoshima](http://www.aoshima-bk.co.jp/en/)
+- [Fujimi](https://www.fujimimokei.com/)
+- [Flyhawk](http://www.flyhawkmodel.com/html/Flyhawkmodel/)
+
+### Paint
+- [Mr Hobby](http://www.mr-hobby.com/en/)
+- [Ammo by MiG](http://www.migjimenez.com/en/)
+- [AK Interactive](http://ak-interactive.com/v2/)
+- [Vallejo](http://www.acrylicosvallejo.com/en_US/modelismo/division/3)
+- [Scale 75](http://scale75.com/en/)
+- [Games Workshop](https://www.games-workshop.com/en-GB/Painting-Modelling?_requestid=27143349)
+- [Zero Paints](http://www.zero-paints.com/)
+
+### Diorama
+- [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
 
 
 ## Blogs
@@ -74,8 +101,10 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [FineScale Magazine](http://www.finescale.com/) - Model magazine with lots of beginner friendly tutorials
 - [The Weathering Magazine](http://www.migjimenez.com/en/35-the-weathering-magazine-publications) - Magazine by MiG Jimenez
 
-## Misc
+## References
 - [Panzerworld](http://www.panzerworld.com/) - Articles on everything related to Panzers
 - [LuftwaffeWorld.de 🇩🇪](https://www.deutscheluftwaffe.de/) - Information on cockpits and documents relating to various Luftwaffe aircraft.
 - [Luftwaffeworld.com 🇩🇪/🇬🇧](https://www.deutscheluftwaffe.com) - Archive of the old Luftwaffeworld website.
+- [Bundesarchiv picture database](https://www.bild.bundesarchiv.de/)
+- [Finnish Wartime Photograph Archive](http://sa-kuva.fi/webneologineng.html)
 
