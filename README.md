@@ -77,6 +77,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Pegasus Hobbies](http://www.pegasushobbies.net/catalog/)
 - [AFV Club 🇹🇼](http://www.hobbyfan.com.tw/index-1.asp)
 - [Mister Craft](http://www.mistercraft.eu/)
+-[Thunder Model](http://www.thundermodel.com/)
 
 ### Paint
 - [Mr Hobby](http://www.mr-hobby.com/en/)
