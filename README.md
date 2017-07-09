@@ -21,6 +21,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Scalemates](http://www.scalemates.com/) - The scale modelers Facebook, Metacritic and price comparison site rolled into one.
 - [Modelbrouwers 🇳🇱](https://modelbrouwers.nl/phpBB3/) - Forum for modelbuilders.
 - [Armorama](https://www.armorama.com/) - Website with reviews, news, tutorials and forum.
+- [The Airfix Tribute Forum](http://airfixtributeforum.myfastforum.org/)
 
 ### Reddit
 - [r/modelmakers](https://www.reddit.com/r/modelmakers)
@@ -99,6 +100,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [The Modeling News](http://www.themodellingnews.com/) - Builds, news and reviews.
 - [moxdao.com 🇨🇳](http://www.moxdao.com/) - News blog
 - [moxing.net 🇨🇳](http://www.moxing.net/) - News, often the first to feature builds of new kits
+- [Jim's Models](https://jimsmodels.com/)
 
 ## Magazines
 - [Military Modelling](http://www.militarymodelling.com) - Magazine centered on military models.
@@ -115,3 +117,4 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Bundesarchiv picture database](https://www.bild.bundesarchiv.de/)
 - [Finnish Wartime Photograph Archive](http://sa-kuva.fi/webneologineng.html)
 - [Panzer Tracts](http://www.panzertracts.com/)
+- [Prime Portal](http://www.primeportal.net/the_battlefield_armor.htm) - A large collection of reference photos of armored vehicles
