@@ -14,6 +14,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Blogs](#Blogs)
 - [Magazines](#Magazines)
 - [References](#References)
+- [YouTube Channels](#YouTube-Channels)
 
 
 
@@ -118,4 +119,18 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Finnish Wartime Photograph Archive](http://sa-kuva.fi/webneologineng.html)
 - [Panzer Tracts](http://www.panzertracts.com/)
 - [Prime Portal](http://www.primeportal.net/the_battlefield_armor.htm) - A large collection of reference photos of armored vehicles
-- [Panzer-Modell.de 🇩🇪](http://www.panzer-modell.de/) 
+- [Panzer-Modell.de 🇩🇪](http://www.panzer-modell.de/)
+- [Wardrawings](http://wardrawings.be/)
+- [Matchboxkits](http://www.matchboxkits.org/)
+- [Tanks-Encyclopedia](http://www.tanks-encyclopedia.com)
+- [Panzernot.net 🇪🇸/🇬🇧](http://www.panzernot.net)
+- [panzermania](http://www.panzermania.com/)
+
+## YouTube-Channels
+- [QuickKits](https://www.youtube.com/user/quickkits)
+- [Doogs Models](https://www.youtube.com/channel/UCpg-rH2RsCcIoME-_DV6pQA)
+- [Paul Budzik](https://www.youtube.com/channel/UCrdcVbQE5fUvTKxMbhnN_KQ)
+- [International Scale Modeler](https://www.youtube.com/user/ScaleModelReview)
+- [Andy's Hobby HQ](https://www.youtube.com/channel/UChnAgeghaNKLdftbfJY8zNA)
+- [PLASMO](https://www.youtube.com/user/idaemon)
+- [Flory Models](https://www.youtube.com/user/florymodels)
