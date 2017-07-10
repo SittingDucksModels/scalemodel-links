@@ -118,3 +118,4 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Finnish Wartime Photograph Archive](http://sa-kuva.fi/webneologineng.html)
 - [Panzer Tracts](http://www.panzertracts.com/)
 - [Prime Portal](http://www.primeportal.net/the_battlefield_armor.htm) - A large collection of reference photos of armored vehicles
+- [Panzer-Modell.de 🇩🇪](http://www.panzer-modell.de/) 
