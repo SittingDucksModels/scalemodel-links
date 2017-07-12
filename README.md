@@ -102,6 +102,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [moxdao.com 🇨🇳](http://www.moxdao.com/) - News blog
 - [moxing.net 🇨🇳](http://www.moxing.net/) - News, often the first to feature builds of new kits
 - [Jim's Models](https://jimsmodels.com/)
+- [SciFi Scratch Models](http://www.scifi-scratch-models.com) - Scratch-built movie quality sci-fi models
 
 ## Magazines
 - [Military Modelling](http://www.militarymodelling.com) - Magazine centered on military models.
