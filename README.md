@@ -93,6 +93,8 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 
 ### Diorama
 - [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
+- [Noch](http://www.noch.com/)
+- [Woodland Scenics](http://woodlandscenics.woodlandscenics.com/)
 
 ## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - SittingDuck's blog. Features reviews, builds and some historical info.
