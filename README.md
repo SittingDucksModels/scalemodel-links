@@ -22,7 +22,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Scalemates](http://www.scalemates.com/) - The scale modelers Facebook, Metacritic and price comparison site rolled into one.
 - [Modelbrouwers 🇳🇱](https://modelbrouwers.nl/phpBB3/) - Forum for modelbuilders.
 - [Armorama](https://www.armorama.com/) - Website with reviews, news, tutorials and forum.
-- [The Airfix Tribute Forum](http://airfixtributeforum.myfastforum.org/)
+- [The Airfix Tribute Forum](http://airfixtributeforum.myfastforum.org/) - The go-to forum for all things Airfix, old and new.
 
 ### Reddit
 - [r/modelmakers](https://www.reddit.com/r/modelmakers)
@@ -44,9 +44,9 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [r/brushforhire](https://www.reddit.com/r/brushforhire)
 
 ### Clubs
-- [IPMS Nederland 🇳🇱](https://www.ipms.nl/)
-- [IPMS Belgium 🇧🇪](http://www.ipms.be/)
-- [IPMS USA](http://www.ipmsusa.org/)
+- [IPMS Nederland 🇳🇱](https://www.ipms.nl/) Dutch chapter of the International Plastic Modelers Society
+- [IPMS Belgium 🇧🇪](http://www.ipms.be/) Belgian chapter of the IPMS
+- [IPMS USA](http://www.ipmsusa.org/) US Chapter of the IPMS
 
 ## Manufacturers
 
@@ -89,7 +89,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Vallejo](http://www.acrylicosvallejo.com/en_US/modelismo/division/3)
 - [Scale 75](http://scale75.com/en/)
 - [Games Workshop](https://www.games-workshop.com/en-GB/Painting-Modelling?_requestid=27143349)
-- [Zero Paints](http://www.zero-paints.com/)
+- [Zero Paints](http://www.zero-paints.com/) - Manufacturer of automotive paints designed for modelers
 
 ### Diorama
 - [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
@@ -103,6 +103,8 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [moxing.net 🇨🇳](http://www.moxing.net/) - News, often the first to feature builds of new kits
 - [Jim's Models](https://jimsmodels.com/)
 - [SciFi Scratch Models](http://www.scifi-scratch-models.com) - Scratch-built movie quality sci-fi models
+- [Small-Wonder](http://www.small-wonder.org/) - Huge archive of kits built by the author going back to the seventies
+- [panzermania](http://www.panzermania.com/)
 
 ## Magazines
 - [Military Modelling](http://www.militarymodelling.com) - Magazine centered on military models.
@@ -118,14 +120,14 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Luftwaffeworld.com 🇩🇪/🇬🇧](https://www.deutscheluftwaffe.com) - Archive of the old Luftwaffeworld website.
 - [Bundesarchiv picture database](https://www.bild.bundesarchiv.de/)
 - [Finnish Wartime Photograph Archive](http://sa-kuva.fi/webneologineng.html)
-- [Panzer Tracts](http://www.panzertracts.com/)
+- [Panzer Tracts](http://www.panzertracts.com/) -  Often called the Panzer Bible, these books are used by modelers and manufacturers alike
 - [Prime Portal](http://www.primeportal.net/the_battlefield_armor.htm) - A large collection of reference photos of armored vehicles
-- [Panzer-Modell.de 🇩🇪](http://www.panzer-modell.de/)
+- [Panzer-Modell.de 🇩🇪](http://www.panzer-modell.de/) - Nineties looking website, but 
 - [Wardrawings](http://wardrawings.be/)
 - [Matchboxkits](http://www.matchboxkits.org/)
 - [Tanks-Encyclopedia](http://www.tanks-encyclopedia.com)
-- [Panzernot.net 🇪🇸/🇬🇧](http://www.panzernot.net)
-- [panzermania](http://www.panzermania.com/)
+- [Panzernot.net 🇪🇸/🇬🇧](http://www.panzernot.net) - Must have for Sd.Kfz. 234/2 Puma fans. But have Google Translate at the ready
+
 
 ## YouTube-Channels
 - [QuickKits](https://www.youtube.com/user/quickkits)
