@@ -47,6 +47,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [IPMS Nederland 🇳🇱](https://www.ipms.nl/) Dutch chapter of the International Plastic Modelers Society
 - [IPMS Belgium 🇧🇪](http://www.ipms.be/) Belgian chapter of the IPMS
 - [IPMS USA](http://www.ipmsusa.org/) US Chapter of the IPMS
+- [IPMS Stockholm 🇸🇪](http://www.ipmsstockholm.se/home/)
 
 ## Manufacturers
 
@@ -129,6 +130,13 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Matchboxkits](http://www.matchboxkits.org/)
 - [Tanks-Encyclopedia](http://www.tanks-encyclopedia.com)
 - [Panzernot.net 🇪🇸/🇬🇧](http://www.panzernot.net) - Must have for Sd.Kfz. 234/2 Puma fans. But have Google Translate at the ready
+- [IPMS Stockholm Soviet Colorchart](http://ipmsstockholm.org/colorcharts/stuff_eng_colorcharts_soviet.htm)
+- [Swanny's The Complete Future](http://web.archive.org/web/20161027132919/http://www.swannysmodels.com:80/TheCompleteFuture.html) - Archive.org link
+- [Paint conversion chart](http://modelkitsreview.com/paint-conversion-chart/)
+- [IPMS Stockholm paint converion](http://www.ipmsstockholm.org/colorcharts/colorcharts_2.asp)
+- [ScalemodelDB.com](https://web.archive.org/web/20160714083726/http://scalemodeldb.com/paintcharts/modelmaster) - Web archive link
+- [Humbrol Paint Conversion](https://www.humbrol.com/uk-en/converthumbrol)
+- [Revell to Humbrol](http://downloads.hobbico.com/misc/rmx/TES_Revell_Paint_Match_Guide.pdf) - Direct link to PDF file
 
 
 ## YouTube-Channels
