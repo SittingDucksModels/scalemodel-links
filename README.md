@@ -82,6 +82,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Mister Craft](http://www.mistercraft.eu/)
 - [Thunder Model](http://www.thundermodel.com/)
 - [Eduard](https://www.eduard.com/)
+- [Rubicon](http://www.rubiconmodels.com/) - 1/56 WW2 kits for Wargaming
 
 ### Paint
 - [Mr Hobby](http://www.mr-hobby.com/en/)
@@ -91,6 +92,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Scale 75](http://scale75.com/en/)
 - [Games Workshop](https://www.games-workshop.com/en-GB/Painting-Modelling?_requestid=27143349)
 - [Zero Paints](http://www.zero-paints.com/) - Manufacturer of automotive paints designed for modelers
+- [Stynylrez](http://www.badgerairbrush.com/Stynylrez.asp) - Primers made by Badger
 
 ### Diorama
 - [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
