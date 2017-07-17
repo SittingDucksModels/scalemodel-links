@@ -93,6 +93,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Games Workshop](https://www.games-workshop.com/en-GB/Painting-Modelling?_requestid=27143349)
 - [Zero Paints](http://www.zero-paints.com/) - Manufacturer of automotive paints designed for modelers
 - [Stynylrez](http://www.badgerairbrush.com/Stynylrez.asp) - Primers made by Badger
+- [Misson Models](https://www.missionmodelsus.com/)
 
 ### Diorama
 - [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
