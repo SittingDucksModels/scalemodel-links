@@ -14,6 +14,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Blogs](#Blogs)
 - [Magazines](#Magazines)
 - [References](#References)
+- [Tutorials](#Tutorials)
 - [YouTube Channels](#YouTube-Channels)
 
 
@@ -141,6 +142,10 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Humbrol Paint Conversion](https://www.humbrol.com/uk-en/converthumbrol)
 - [Revell to Humbrol](http://downloads.hobbico.com/misc/rmx/TES_Revell_Paint_Match_Guide.pdf) - Direct link to PDF file
 
+## Tutorials
+- [Low cost DIY water tutorial - MarklinofSweden](https://youtu.be/2TwpB7sVMn8)
+- [Useful Tools for Scale Modellers - QuickKits](https://youtu.be/SmTBSX98ECY)
+- [How to Brush Paint Scale Models - QuickKits](https://youtu.be/wbV_ORs6160)
 
 ## YouTube-Channels
 - [QuickKits](https://www.youtube.com/user/quickkits)
