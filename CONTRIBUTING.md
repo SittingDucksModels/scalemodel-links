@@ -1,6 +1,19 @@
 Have a few links you want to see on this list?
+ 
+ ## Adding to this list
 
- * The **syntax** for links is ``[Name](http://homepage.tld/) - Short description.  ``. All links should have main language listed if it isn't English, and should have a description at most 250 characters long.
- * Adding links to this list: Edit README.md directly
- * **Categories** should have at least 3 links before adding a new category.
- * If you don't have an GitHub account and want to have a link or links added contact me via email: SittingDucksModels[over_at]gmail.com
+Please ensure your pull request adheres to the following guidelines:
+
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
+- Make an individual pull request for each suggestion.
+- Use [title-casing](http://titlecapitalization.com) (AP style).
+- Use the following format: `[List Name](link)`
+- Link additions should be added to the bottom of the relevant category.
+- New categories or improvements to the existing categorization are welcome.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- The pull request and commit should have a useful title.
+- The body of your commit message should contain a link to the repository.
+
+Thank you for your suggestions!
