@@ -155,3 +155,4 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Andy's Hobby HQ](https://www.youtube.com/channel/UChnAgeghaNKLdftbfJY8zNA)
 - [PLASMO](https://www.youtube.com/user/idaemon)
 - [Flory Models](https://www.youtube.com/user/florymodels)
+- [ScaleModelAircraft](https://www.youtube.com/channel/UC9n7S96o5bKagKWAgsqvLuw)
