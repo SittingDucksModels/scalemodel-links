@@ -100,6 +100,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
 - [Noch](http://www.noch.com/)
 - [Woodland Scenics](http://woodlandscenics.woodlandscenics.com/)
+- [Coastal Kits](http://www.coastalkits.co.uk/)
 
 ## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - SittingDuck's blog. Features reviews, builds and some historical info.
@@ -120,6 +121,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Modelbouw Magazine 🇳🇱](http://www.modelbouwmagazine.nl/) - Dutch/Belgian magazine
 - [FineScale Magazine](http://www.finescale.com/) - Model magazine with lots of beginner friendly tutorials
 - [The Weathering Magazine](http://www.migjimenez.com/en/35-the-weathering-magazine-publications) - Magazine by MiG Jimenez
+- [International Scale Modeler Magazine](http://ism-mag.com/)
 
 ## References
 - [Panzerworld](http://www.panzerworld.com/) - Articles on everything related to Panzers
