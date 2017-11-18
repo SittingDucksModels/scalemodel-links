@@ -84,6 +84,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Thunder Model](http://www.thundermodel.com/)
 - [Eduard](https://www.eduard.com/)
 - [Rubicon](http://www.rubiconmodels.com/) - 1/56 WW2 kits for Wargaming
+- [Aedes Ars](http://www.aedesars.com/home) - Makes ceramic model kits of (historical) buildings
 
 ### Paint
 - [Mr Hobby](http://www.mr-hobby.com/en/)
@@ -101,6 +102,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Noch](http://www.noch.com/)
 - [Woodland Scenics](http://woodlandscenics.woodlandscenics.com/)
 - [Coastal Kits](http://www.coastalkits.co.uk/)
+- [Linka World](http://www.linkaworld.com/) - Makes a system of rubber moulds used to make buildings and other scenery structures.
 
 ## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - SittingDuck's blog. Features reviews, builds and some historical info.
