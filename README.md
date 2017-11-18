@@ -122,6 +122,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [FineScale Magazine](http://www.finescale.com/) - Model magazine with lots of beginner friendly tutorials
 - [The Weathering Magazine](http://www.migjimenez.com/en/35-the-weathering-magazine-publications) - Magazine by MiG Jimenez
 - [International Scale Modeler Magazine](http://ism-mag.com/)
+- [Abrams Squad](http://abramssquad.com/)
 
 ## References
 - [Panzerworld](http://www.panzerworld.com/) - Articles on everything related to Panzers
