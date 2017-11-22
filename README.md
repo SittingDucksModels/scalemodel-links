@@ -151,7 +151,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Low cost DIY water tutorial - MarklinofSweden](https://youtu.be/2TwpB7sVMn8)
 - [Useful Tools for Scale Modellers - QuickKits](https://youtu.be/SmTBSX98ECY)
 - [How to Brush Paint Scale Models - QuickKits](https://youtu.be/wbV_ORs6160)
-- [Howto restore scratched canopies] - (https://modelpaintsol.com/guides/getting-scratches-out-tricks-for-clear-parts-canopies)
+- [Howto restore scratched canopies](https://modelpaintsol.com/guides/getting-scratches-out-tricks-for-clear-parts-canopies)
 
 ## YouTube-Channels
 - [QuickKits](https://www.youtube.com/user/quickkits)
