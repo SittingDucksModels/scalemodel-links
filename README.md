@@ -146,6 +146,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [ScalemodelDB.com](https://web.archive.org/web/20160714083726/http://scalemodeldb.com/paintcharts/modelmaster) - Web archive link
 - [Humbrol Paint Conversion](https://www.humbrol.com/uk-en/converthumbrol)
 - [Revell to Humbrol](http://downloads.hobbico.com/misc/rmx/TES_Revell_Paint_Match_Guide.pdf) - Direct link to PDF file
+- [Aircraft Resource Center](http://aircraftresourcecenter.com/) - Great articles on builds, kits, aftermarket and walkarounds of aircraft
 
 ## Tutorials
 - [Low cost DIY water tutorial - MarklinofSweden](https://youtu.be/2TwpB7sVMn8)
