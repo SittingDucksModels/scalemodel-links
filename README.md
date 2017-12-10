@@ -115,6 +115,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [SciFi Scratch Models](http://www.scifi-scratch-models.com) - Scratch-built movie quality sci-fi models
 - [Small-Wonder](http://www.small-wonder.org/) - Huge archive of kits built by the author going back to the seventies
 - [panzermania](http://www.panzermania.com/)
+- [Tank Kingdom](https://tankingdom.com/)
 
 ## Magazines
 - [Military Modelling](http://www.militarymodelling.com) - Magazine centered on military models.
