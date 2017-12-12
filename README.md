@@ -97,7 +97,7 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Stynylrez](http://www.badgerairbrush.com/Stynylrez.asp) - Primers made by Badger
 - [Misson Models](https://www.missionmodelsus.com/)
 - [Mr Paint](http://mrpaint.sk)
-- [Allclad 2](http://alclad2.com/)
+- [Allclad 2](http://alclad2.com/) - The best metallic paints available.
 
 ### Diorama
 - [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
