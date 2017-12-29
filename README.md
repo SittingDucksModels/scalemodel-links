@@ -150,7 +150,8 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Humbrol Paint Conversion](https://www.humbrol.com/uk-en/converthumbrol)
 - [Revell to Humbrol](http://downloads.hobbico.com/misc/rmx/TES_Revell_Paint_Match_Guide.pdf) - Direct link to PDF file
 - [Aircraft Resource Center](http://aircraftresourcecenter.com/) - Great articles on builds, kits, aftermarket and walkarounds of aircraft
-- [](http://www.creativemodels.co.uk/paint_conversion.php/manufacturers_id/12/page/1?oscsid=4af5f4beb37d0e7ba115be6801293a8f) - Tamiya paint converted to Humbrol, Vallejo, Modelmaster, RAL and RLM
+- [Creativemodels.co.uk](http://www.creativemodels.co.uk/paint_conversion.php/manufacturers_id/12/page/1?oscsid=4af5f4beb37d0e7ba115be6801293a8f) - Tamiya paint converted to Humbrol, Vallejo, Modelmaster, RAL and RLM
+- [Scale Modeler's Paint and Color Reference Directory](https://www.cybermodeler.com/resource6.shtml) Cybermodeler Online paint and color reference
 
 ## Tutorials
 - [Low cost DIY water tutorial - MarklinofSweden](https://youtu.be/2TwpB7sVMn8)
