@@ -169,3 +169,5 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [PLASMO](https://www.youtube.com/user/idaemon)
 - [Flory Models](https://www.youtube.com/user/florymodels)
 - [ScaleModelAircraft](https://www.youtube.com/channel/UC9n7S96o5bKagKWAgsqvLuw)
+- [The Terrain Tutor](https://www.youtube.com/channel/UCx_aro8CTHw7ZD5H661hC6Q)
+- [Luke Towan](https://www.youtube.com/channel/UCjRkUtHQ774mTg1vrQ6uA5A)
