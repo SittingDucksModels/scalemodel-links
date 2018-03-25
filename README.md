@@ -2,7 +2,7 @@
 
 This is a list of links related to scale model building, including historical sources.
 
-Want to add links, see [Contributing](https://github.com/SittingDucksModels/scalemodel-links/blob/master/CONTRIBUTE.md).
+Want to add links, see [Contributing](CONTRIBUTING.md).
 
 --------------------
 - [Communities](#Communities)
