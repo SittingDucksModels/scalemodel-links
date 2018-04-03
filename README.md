@@ -153,6 +153,8 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Creativemodels.co.uk](http://www.creativemodels.co.uk/paint_conversion.php/manufacturers_id/12/page/1?oscsid=4af5f4beb37d0e7ba115be6801293a8f) - Tamiya paint converted to Humbrol, Vallejo, Modelmaster, RAL and RLM
 - [Scale Modeler's Paint and Color Reference Directory](https://www.cybermodeler.com/resource6.shtml) Cybermodeler Online paint and color reference
 - [German Camouflage and Tactical Markings](http://ftr.wot-news.com/2015/02/24/german-camouflage-and-tactical-markings-part-i-by-agarestretiak/) - Nice article on a World of Tanks fansite
+- [Mr Tretiak: WW2 German Camouflage and Tactical Markings (part 1)](https://mistertretiakpresents.wordpress.com/2015/03/09/world-war-2-german-camouflage-and-tactical-markings-part-i/) - The first part of a series of articles on German Panzer camouflage and markings
+- [Mr. Tretiak: WW2 German Camouflage and Tactical Markings (part 2)](https://mistertretiakpresents.wordpress.com/2015/03/26/world-war-2-german-camouflage-and-tactical-markings-part-2/) - The second (and final?) part of a series of articles on German Panzer camouflage and markings
 
 ## Tutorials
 - [Low cost DIY water tutorial - MarklinofSweden](https://youtu.be/2TwpB7sVMn8)
