@@ -100,8 +100,8 @@ Want to add links, see [Contributing](https://github.com/SittingDucksModels/scal
 - [Allclad 2](http://alclad2.com/) - The best metallic paints available.
 
 ### Diorama
-- [Mininatur](http://mininatur.de/silhouette_home.php?lang=en)
-- [Noch](http://www.noch.com/)
+- [Mininatur 🇩🇪/🇬🇧](http://mininatur.de/silhouette_home.php?lang=en)
+- [Noch 🇩🇪/🇬🇧](http://www.noch.com/)
 - [Woodland Scenics](http://woodlandscenics.woodlandscenics.com/)
 - [Coastal Kits](http://www.coastalkits.co.uk/)
 - [Linka World](http://www.linkaworld.com/) - Makes a system of rubber moulds used to make buildings and other scenery structures.
