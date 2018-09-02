@@ -157,6 +157,8 @@ Want to add links, see [Contributing](CONTRIBUTING.md).
 - [German Camouflage and Tactical Markings](http://ftr.wot-news.com/2015/02/24/german-camouflage-and-tactical-markings-part-i-by-agarestretiak/) - Nice article on a World of Tanks fansite
 - [Mr Tretiak: WW2 German Camouflage and Tactical Markings (part 1)](https://mistertretiakpresents.wordpress.com/2015/03/09/world-war-2-german-camouflage-and-tactical-markings-part-i/) - The first part of a series of articles on German Panzer camouflage and markings
 - [Mr. Tretiak: WW2 German Camouflage and Tactical Markings (part 2)](https://mistertretiakpresents.wordpress.com/2015/03/26/world-war-2-german-camouflage-and-tactical-markings-part-2/) - The second (and final?) part of a series of articles on German Panzer camouflage and markings
+ - [Joe Baugher's Home Page](http://www.joebaugher.com/) - Lists almost all Tail numbers of USAF, USN and USCG aircraft from the dawn of US aviation to modern days
+ - [Everyspec.com](http://everyspec.com/) - EverySpec provides free access to over 55,000 Military, DoD, Federal, NASA, DOE, and Government specifications, standards, handbooks, and publications.
 
 ## Tutorials
 - [Low cost DIY water tutorial - MarklinofSweden](https://youtu.be/2TwpB7sVMn8)
