@@ -160,6 +160,7 @@ Want to add links, see [Contributing](CONTRIBUTING.md).
  - [Joe Baugher's Home Page](http://www.joebaugher.com/) - Lists almost all Tail numbers of USAF, USN and USCG aircraft from the dawn of US aviation to modern days
  - [Everyspec.com](http://everyspec.com/) - EverySpec provides free access to over 55,000 Military, DoD, Federal, NASA, DOE, and Government specifications, standards, handbooks, and publications.
  - [Ministere des Armees 🇫🇷/🇬🇧/🇩🇪/🇪🇸](http://www.memoiredeshommes.sga.defense.gouv.fr/en/article.php?larub=108) - The official site of the French Ministry of Defense with lots of technical drawings of (French) tanks
+ - [WWII Aircraft Performance 🇬🇧](http://wwiiaircraftperformance.org/) - Website with hundreds of reports on US, UK, DE and JP WW2 aircraft performance and encounter reports
 
 ## Tutorials
 - [Low cost DIY water tutorial - MarklinofSweden](https://youtu.be/2TwpB7sVMn8)
