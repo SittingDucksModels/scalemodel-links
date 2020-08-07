@@ -116,7 +116,6 @@ Want to add links, see [Contributing](CONTRIBUTING.md).
 - [moxdao.com 🇨🇳](http://www.moxdao.com/) - News blog
 - [moxing.net 🇨🇳](http://www.moxing.net/) - News, often the first to feature builds of new kits
 - [Jim's Models](https://jimsmodels.com/)
-- [SciFi Scratch Models](http://www.scifi-scratch-models.com) - Scratch-built movie quality sci-fi models
 - [Small-Wonder](http://www.small-wonder.org/) - Huge archive of kits built by the author going back to the seventies
 - [panzermania](http://www.panzermania.com/)
 - [Tank Kingdom](https://tankingdom.com/)
