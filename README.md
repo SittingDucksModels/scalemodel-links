@@ -26,6 +26,10 @@ Want to add links, see [Contributing](CONTRIBUTING.md).
 - [Modelbrouwers 🇳🇱](https://modelbrouwers.nl/phpBB3/) - Forum for modelbuilders.
 - [Armorama](https://www.armorama.com/) - Website with reviews, news, tutorials and forum.
 - [The Airfix Tribute Forum](http://airfixtributeforum.myfastforum.org/) - The go-to forum for all things Airfix, old and new.
+- [Britmodeller](https://www.britmodeller.com/) - Model forum and reviews for Brits (and others)
+- [ARC Forums](http://www.arcforums.com)
+- [Modelingmadness](https://modelingmadness.com/)
+- [HyperScale](http://www.hyperscale.com/) - One of the oldest blogs/websites around, offers loads of references, reviews and articles
 
 ### Reddit
 - [r/modelmakers](https://www.reddit.com/r/modelmakers)
