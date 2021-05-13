@@ -111,6 +111,7 @@ Want to add links, see [Contributing](CONTRIBUTING.md).
 - [Woodland Scenics](http://woodlandscenics.woodlandscenics.com/)
 - [Coastal Kits](http://www.coastalkits.co.uk/)
 - [Linka World](http://www.linkaworld.com/) - Makes a system of rubber moulds used to make buildings and other scenery structures.
+- [Diodump.com](https://www.diodump.com/) - Diorama buildings and accessoiries
 
 ## Blogs
 - [SittingDucks Models](https://sittingducksmodels.wordpress.com) - SittingDuck's blog. Features reviews, builds and some historical info.
